@@ -1,0 +1,167 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 24px;
+	line-height: 32px;
+	background-color: #777;
+
+}
+
+#header {
+	padding: 20px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	margin: 0 auto;
+	width: 75%;
+	
+
+	font-family: "arial"
+	
+	
+
+}
+
+#nav {
+	padding: 20px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	width: 75%;
+	margin-left: 138.5px;
+	margin-top: 12px;
+	font-size: 18px;
+	font-family: "arial"
+}
+
+#main {
+	padding: 100px;
+	float: left;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	width: 40%;
+	margin-left: 138.5px;
+	margin-top: 18px;
+	font-size: 18px;
+	font-family: "arial"
+
+}
+
+#text1 {
+	top: -85px;
+	background-color: #ebebeb;
+	color: #777;
+	font-size: 18px;
+	position: relative;
+
+}
+	
+
+#Article {
+	
+	clear: both;
+	overflow: auto;
+	padding: 20px;
+	background-color: #777;
+	color: #ebebeb;
+	
+	font-size: 18px;
+	width: 37%;
+	float: left;
+	left: 160px;
+	top: 240px;
+
+	position: absolute;
+	font-family: "arial"
+
+
+}
+
+#line1 {
+	padding: 8px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	margin: auto;
+	width: 100%;
+	left: 0%;
+	top: -8px;
+	position: relative;
+
+
+}
+
+#line3 {
+
+	padding: 8px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	margin: auto;
+	width: 100%;
+	left: 0%;
+	bottom: 30%;
+	
+}
+
+
+
+#text2 {
+	color: #ebebeb;
+	font-size: 18px;
+	top:-10px;
+	position: relative;
+}
+
+
+
+
+#Aside {
+	
+	padding: 100px;
+	float: left;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	width: 34%;
+	margin-left: 12px;
+	margin-top: 18px;
+	font-size: 18px;
+	font-family: "arial"
+
+}
+
+#text3 {
+	top: -215px;
+	color: #777;
+	font-size: 18px;
+	position: relative;
+
+}
+
+
+#bottom {
+	padding: 20px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	font-size: 18px;
+	height: 100px;
+	width: 75%;
+	position: relative;
+	bottom: -270px;
+	right: -140px;
+
+
+	font-family: "arial"
+		
+}
